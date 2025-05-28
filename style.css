@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: linen
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    margin: 10px;
+}
+
+.burger {
+    background-color: saddlebrown;
+    padding: 10px;
+}
+
+.pasta {
+    background-color: gold;
+    padding: 10px;
+
+}
+
+.salmon {
+    background-color: salmon;
+    padding: 10px;
+}
+
+ul li {
+    font-size: 24px;
+}
